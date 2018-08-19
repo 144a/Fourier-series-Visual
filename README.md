@@ -1,2 +1,3 @@
 # Fourier-series-Visual
-A visual example of a simple fourier series to demonstrate the principle behind the concept
+
+I have had a hard time explaining to people how fourier series and fourier transform work, and have struggled to prove my methodologies in multiple programs because of it. However, I came across a few good visual representations, and decided it would be good to try and make one of my own. Although writting it in Java using processing was much easier, it also came with some drawbacks. To change the function being represented, you have to manually calculate its period and amplitude, then enter this as an evaluable math statment in the respective methods. Otherwise, I think it should be pretty self-explanatory. 
